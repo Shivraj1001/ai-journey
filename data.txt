@@ -1,3 +1,0 @@
-Learning Python step by step
-Day 7: File handling and errors
-Appended file
