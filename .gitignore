@@ -1,0 +1,4 @@
+# Ignore generated scraper outputs
+*.csv
+*.txt
+*.xlsx
